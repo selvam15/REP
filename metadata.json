@@ -1,0 +1,7 @@
+{
+  "name": "BIOMUTANTZ26",
+  "description": "A futuristic, glassmorphism-themed event registration portal for the 2026 college technical symposium with interactive event posters and animated UI.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
