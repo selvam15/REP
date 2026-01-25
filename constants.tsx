@@ -103,10 +103,11 @@ export const EVENTS: EventData[] = [
     category: 'Technical',
     description: 'Unlock the secrets of cognitive engineering. A technical challenge exploring the intersection of neural networks and biological psychology.',
     rules: [
-      'Individual or team of 2.',
-      'Focus on logic and neural pattern recognition.',
-      'Multiple technical screening rounds.',
-      'No external assistance allowed.'
+      'Team size: 1 to 5 participants (individuals will be grouped if needed)',
+      'Four get the same medical term, one gets a blank slip',
+      'Slips must not be revealed',
+      'Each gives one brief description',
+      'One who identifies the blank slip holder first will win, else the hidden player wins.'
     ],
     date: 'February 10, 2026',
     time: '02:00 PM - 05:00 PM',
