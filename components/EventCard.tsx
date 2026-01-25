@@ -93,7 +93,7 @@ const EventCard: React.FC<EventCardProps> = ({ event, onClick }) => {
             alt={event.title}
             className="w-full h-full object-cover transition-transform duration-700 ease-out group-hover:scale-105"
           />
-          <div className="absolute inset-0 bg-gradient-to-t from-[#0d0d0d] via-transparent to-transparent opacity-80" />
+          <div className="absolute inset-0 bg-gradient-to-t from-[#0d0d0d] via-transparent to-transparent opacity-20" />
           
           <div className="absolute top-5 left-5">
             <motion.span 
