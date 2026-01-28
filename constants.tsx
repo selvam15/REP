@@ -290,7 +290,7 @@ export const EVENTS: EventData[] = [
       'Entry Fee: ₹100.',
       'Round 1: Quiz (15s per question).',
       'Top 10 teams qualify for auction.',
-      'Auction purse: ₹60 Crores per team.',
+      'Auction purse: ₹75 Crores per team.',
       'Coordinator decision is final.'
     ],
     date: 'February 10, 2026',
