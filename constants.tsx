@@ -358,8 +358,8 @@ export const EVENTS: EventData[] = [
     registrationLink: 'https://forms.gle/qoynFHmfMqGfCpaA6',
     accentColor: '#22d3ee',
     coordinators: [
-      { name: 'Sangamitra', role: 'Lead Instructor', phone: '+91 9345669963', email: 'sangamitra@biomutantz.org' },
-      { name: 'Sangamitra', role: 'Lead Instructor', phone: '+91 9345669963', email: 'sangamitra@biomutantz.org' }
+      { name: 'NILA', role: 'Lead Instructor', phone: '+91 9994387924', email: 'sangamitra@biomutantz.org' },
+      { name: 'AFIZA', role: 'Lead Instructor', phone: '+91 9941286223', email: 'sangamitra@biomutantz.org' }
     ]
   }
 ];
